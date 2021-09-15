@@ -28,7 +28,7 @@
 .btn-row > * {
     margin-left: 1rem;
 }
-.btn-row > * :first-child{
+.btn-row > *:first-child{
     margin-left: 0;
 }
 .btn-primary{
