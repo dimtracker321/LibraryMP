@@ -43,3 +43,4 @@ if(this.coverImage != null && this.coverImageType != null){
 }
 })
 module.exports = mongoose.model('Book', bookSchema)
+
